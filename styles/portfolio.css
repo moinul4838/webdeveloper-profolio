@@ -2,6 +2,7 @@ nav {
     display: flex;
     align-items: center;
     justify-content: space-between;
+    padding: 0px 200px;
 }
 body{
     font-family: 'Noto Sans', sans-serif;
@@ -37,4 +38,16 @@ nav ul li{
 nav li a{
     text-decoration: none;
     color: rgb(107, 99, 99);
+}
+.header{
+    background: #FFF8F3;
+}
+.banner{
+    padding: 30px 30px 30px 150px;
+    display: flex;
+    align-items: center;
+}
+.banner .profile-pic{
+    width: 500px;
+
 }
