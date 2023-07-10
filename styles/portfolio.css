@@ -125,3 +125,17 @@ font-style: normal;
 font-weight: 700;
 line-height: normal;
 }
+.resume-container{
+    display: flex;
+    gap: 50px;
+}
+.resume-desccription{
+    color:  #757575;
+}
+.resume-item-institute{
+    color: #757575;
+}
+.download-cv{
+    text-align: center;
+    margin-top: 50px;
+}
